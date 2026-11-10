@@ -60,7 +60,7 @@ Whether it's sending a quick message, seeing who's online, or getting a glowing 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif" alt="Anime Happy" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OW1nbzZpeTFlb2oyOTY0NW0zanU3eWZ4MnZwM2V5ODF3emRkN3V3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Zqy8kRlwfwFnq/giphy.gif" alt="Anime Happy" width="300" />
 </div>
 
 ---
