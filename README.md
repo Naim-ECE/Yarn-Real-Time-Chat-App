@@ -13,7 +13,7 @@
 
 <br />
 
-> **[🚀 View Live Demo](https://your-live-link.com)** &nbsp; | &nbsp; **[📱 Frontend Repository](https://github.com/yourusername/yarn-frontend)** &nbsp; | &nbsp; **[💻 Backend Repository](https://github.com/yourusername/yarn-backend)**
+> **[🚀 View Live Demo](https://your-live-link.com)** &nbsp; | &nbsp; **[📱 Frontend Repository](https://github.com/Naim-ECE/WebSockets/tree/main/Render_Chat_App/Frontend)** &nbsp; | &nbsp; **[💻 Backend Repository](https://github.com/Naim-ECE/WebSockets/tree/main/Render_Chat_App/Backend)**
 
 <br />
 
